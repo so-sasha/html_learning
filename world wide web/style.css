@@ -1,0 +1,48 @@
+.grey-article {
+  color: grey;
+}
+
+.quote {
+  font-style: italic;
+  border-left: black solid 4px;
+  padding-left: 20px;
+  width: 830px;
+}
+
+body {
+  width: 800px;
+
+  margin: 0 auto;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 18pt;
+}
+
+p {
+  line-height: normal;
+  margin: auto;
+  padding: 20px 0 20px 0;
+}
+
+ol, ul {
+  line-height: normal;
+  font-size: 14pt;
+}
+
+h3, h2 {
+  font-weight: bold;
+  font-size: 24pt;
+  line-height: normal;
+}
+
+h1 {
+  font-size: 26pt;
+  font-weight: bold;
+  line-height: normal;
+  margin: auto;
+}
+
+h4 {
+  font-weight: bold;
+  font-size: 16pt;
+  line-height: normal;
+}
